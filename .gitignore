@@ -8,6 +8,9 @@ venv/
 env/
 .venv/
 .env/
+.env
+#delete env folder for the github repository
+.env/*
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
